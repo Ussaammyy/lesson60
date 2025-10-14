@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-fugb_d=&60giu0$$+b$34-7r05h@ns)z%nfs%=d@*eh(er+@*5
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["lesson60-2.onrender.com", "*"]
 
 
 # Application definition
